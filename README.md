@@ -89,5 +89,5 @@
 ### 📊 Statistics
 
 <div align=left>
-  <img width=390 src="https://github-readme-stats-snoeps-projects.vercel.app/api?username=SnoepNFTs&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme statistics" />
+  <img width=390 src="https://github-readme-stats-snoeps-projects.vercel.app/api?username=ezzamo&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme statistics" />
 </div>
